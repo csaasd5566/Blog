@@ -1,0 +1,19 @@
+#content{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    transform: translate(-50%, -70%);
+}
+h1{
+    font-size: 100px;
+    font-family: sans-serif;
+}
+.ahref{
+    padding: 50px;
+    font-size:50px;
+    text-decoration: none;   
+    font-family: sans-serif; 
+}
